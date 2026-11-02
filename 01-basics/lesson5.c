@@ -17,7 +17,7 @@ int main() {
 
     double total = quanity * price;
 
-    printf("\nOrder: %d x %.2f, size %c\n", quanity, price, size);
+    printf("\nOrder: %d x %.2f, Size %c\n", quanity, price, size);
     printf("Total: %.2f\n", total);
 
     return 0;
